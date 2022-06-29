@@ -1,7 +1,7 @@
 pipeline{
   environment{
     reg = "dockerabhijeet/assignment10"
-    regCre = "my_id"
+    regCre = "docker_id"
     dockerImg = ""
   }
   agent any
